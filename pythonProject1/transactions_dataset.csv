@@ -1,0 +1,501 @@
+transaction,count
+"['item_1', 'item_9', 'item_15', 'item_16', 'item_19', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_30', 'item_36']",4
+"['item_2', 'item_3', 'item_8', 'item_9', 'item_13', 'item_19', 'item_20', 'item_22', 'item_24', 'item_28', 'item_30', 'item_32']",8
+"['item_2', 'item_6', 'item_9', 'item_13', 'item_19', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34']",5
+"['item_1', 'item_2', 'item_4', 'item_9', 'item_13', 'item_15', 'item_17', 'item_18', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_35', 'item_36', 'item_38']",11
+"['item_2', 'item_6', 'item_9', 'item_13', 'item_15', 'item_17', 'item_19', 'item_20', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34', 'item_35']",7
+"['item_2', 'item_6', 'item_10', 'item_13', 'item_24', 'item_29', 'item_32', 'item_33', 'item_34', 'item_35']",7
+"['item_2', 'item_6', 'item_9', 'item_13', 'item_19', 'item_24', 'item_28', 'item_29', 'item_30', 'item_32', 'item_34', 'item_36', 'item_38']",14
+"['item_1', 'item_2', 'item_5', 'item_6', 'item_9', 'item_13', 'item_15', 'item_21', 'item_22', 'item_25', 'item_26', 'item_27', 'item_32', 'item_34', 'item_36']",6
+"['item_0', 'item_1', 'item_2', 'item_6', 'item_7', 'item_9', 'item_11', 'item_14', 'item_18', 'item_20', 'item_23', 'item_34', 'item_37']",1
+"['item_1', 'item_6', 'item_9', 'item_16', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_33', 'item_34', 'item_35', 'item_36']",4
+"['item_1', 'item_2', 'item_9', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",6
+"['item_1', 'item_2', 'item_3', 'item_9', 'item_11', 'item_13', 'item_15', 'item_19', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_29', 'item_30', 'item_36', 'item_38']",10
+"['item_3', 'item_9', 'item_11', 'item_19', 'item_24', 'item_27', 'item_28', 'item_30']",7
+"['item_0', 'item_1', 'item_2', 'item_4', 'item_6', 'item_8', 'item_9', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",13
+"['item_1', 'item_2', 'item_3', 'item_6', 'item_9', 'item_12', 'item_13', 'item_14', 'item_17', 'item_19', 'item_21', 'item_24', 'item_25', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",13
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_12', 'item_13', 'item_19', 'item_21', 'item_23', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",9
+"['item_1', 'item_2', 'item_5', 'item_6', 'item_10', 'item_13', 'item_21', 'item_27', 'item_32', 'item_34', 'item_35', 'item_36']",5
+"['item_2', 'item_9', 'item_13', 'item_19', 'item_22', 'item_24', 'item_28', 'item_30', 'item_32']",7
+"['item_7', 'item_9', 'item_16', 'item_17', 'item_19', 'item_24', 'item_28', 'item_30']",1
+"['item_1', 'item_11', 'item_21', 'item_23', 'item_25', 'item_27', 'item_36', 'item_38']",0
+"['item_2', 'item_9', 'item_12', 'item_13', 'item_15', 'item_18', 'item_19', 'item_20', 'item_24', 'item_28', 'item_30', 'item_32', 'item_36']",11
+"['item_2', 'item_6', 'item_9', 'item_12', 'item_13', 'item_16', 'item_19', 'item_20', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34']",10
+"['item_0', 'item_6', 'item_12', 'item_28', 'item_34', 'item_35']",1
+"['item_2', 'item_6', 'item_8', 'item_9', 'item_10', 'item_11', 'item_13', 'item_19', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34']",11
+"['item_2', 'item_6', 'item_11', 'item_13', 'item_15', 'item_16', 'item_19', 'item_20', 'item_23', 'item_26', 'item_27', 'item_29', 'item_32', 'item_34', 'item_36']",4
+"['item_2', 'item_9', 'item_13', 'item_15', 'item_19', 'item_24', 'item_28', 'item_30', 'item_32']",9
+"['item_0', 'item_6', 'item_17', 'item_19', 'item_28', 'item_30', 'item_32', 'item_34', 'item_35']",0
+"['item_2', 'item_3', 'item_4', 'item_6', 'item_9', 'item_11', 'item_13', 'item_15', 'item_19', 'item_21', 'item_23', 'item_24', 'item_25', 'item_28', 'item_30', 'item_32', 'item_33', 'item_34', 'item_35']",11
+"['item_0', 'item_1', 'item_5', 'item_6', 'item_14', 'item_17', 'item_21', 'item_27', 'item_34', 'item_36']",3
+"['item_0', 'item_1', 'item_2', 'item_13', 'item_21', 'item_26', 'item_27', 'item_32', 'item_37', 'item_38']",2
+"['item_0', 'item_1', 'item_6', 'item_13', 'item_21', 'item_27', 'item_36']",0
+"['item_0', 'item_1', 'item_6', 'item_7', 'item_9', 'item_12', 'item_15', 'item_18', 'item_19', 'item_21', 'item_23', 'item_24', 'item_28', 'item_30', 'item_34', 'item_36']",1
+"['item_2', 'item_6', 'item_13', 'item_16', 'item_21', 'item_23', 'item_29', 'item_30', 'item_32', 'item_34', 'item_36', 'item_37']",2
+"['item_0', 'item_1', 'item_3', 'item_4', 'item_21', 'item_22', 'item_27', 'item_36', 'item_37']",2
+"['item_1', 'item_2', 'item_4', 'item_8', 'item_13', 'item_19', 'item_21', 'item_22', 'item_27', 'item_32', 'item_36']",4
+"['item_1', 'item_2', 'item_3', 'item_6', 'item_13', 'item_16', 'item_21', 'item_23', 'item_27', 'item_32', 'item_34', 'item_36']",6
+"['item_0', 'item_1', 'item_2', 'item_5', 'item_6', 'item_7', 'item_9', 'item_15', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_31', 'item_34', 'item_36']",10
+"['item_0', 'item_1', 'item_6', 'item_7', 'item_8', 'item_9', 'item_12', 'item_19', 'item_21', 'item_24', 'item_25', 'item_27', 'item_28', 'item_30', 'item_34', 'item_36']",7
+"['item_2', 'item_6', 'item_7', 'item_9', 'item_13', 'item_19', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34']",12
+"['item_9', 'item_12', 'item_19', 'item_24', 'item_28', 'item_30']",4
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_16', 'item_18', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",13
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_10', 'item_13', 'item_14', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_33', 'item_34', 'item_36', 'item_37']",9
+"['item_2', 'item_4', 'item_12', 'item_13', 'item_32']",3
+"['item_1', 'item_2', 'item_5', 'item_9', 'item_13', 'item_19', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_30', 'item_31', 'item_32', 'item_35', 'item_36']",8
+"['item_1', 'item_8', 'item_9', 'item_10', 'item_15', 'item_16', 'item_17', 'item_19', 'item_24', 'item_28', 'item_30']",5
+"['item_1', 'item_2', 'item_7', 'item_9', 'item_13', 'item_19', 'item_21', 'item_24', 'item_26', 'item_27', 'item_28', 'item_29', 'item_30', 'item_32', 'item_36']",8
+"['item_2', 'item_3', 'item_6', 'item_7', 'item_9', 'item_13', 'item_16', 'item_19', 'item_20', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34']",14
+"['item_1', 'item_2', 'item_6', 'item_8', 'item_13', 'item_16', 'item_21', 'item_27', 'item_31', 'item_32', 'item_34', 'item_36']",6
+"['item_1', 'item_2', 'item_7', 'item_9', 'item_13', 'item_19', 'item_21', 'item_23', 'item_24', 'item_28', 'item_30', 'item_32']",8
+"['item_1', 'item_2', 'item_13', 'item_19', 'item_21', 'item_27', 'item_32', 'item_34', 'item_36']",3
+"['item_8', 'item_9', 'item_18', 'item_19', 'item_20', 'item_24', 'item_28', 'item_30', 'item_36', 'item_37']",7
+"['item_1', 'item_6', 'item_7', 'item_17', 'item_21', 'item_27', 'item_34', 'item_36', 'item_37']",2
+"['item_1', 'item_2', 'item_3', 'item_9', 'item_12', 'item_13', 'item_19', 'item_21', 'item_22', 'item_24', 'item_26', 'item_27', 'item_28', 'item_29', 'item_30', 'item_32', 'item_35', 'item_36']",10
+"['item_2', 'item_9', 'item_13', 'item_28', 'item_31', 'item_32']",6
+"['item_1', 'item_2', 'item_10', 'item_13', 'item_21', 'item_27', 'item_32', 'item_36']",6
+"['item_6', 'item_9', 'item_19', 'item_24', 'item_27', 'item_28', 'item_29', 'item_30']",7
+"['item_1', 'item_9', 'item_18', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_29', 'item_30', 'item_36']",4
+"['item_6', 'item_22', 'item_34', 'item_38']",1
+"['item_0', 'item_1', 'item_6', 'item_14', 'item_19', 'item_21', 'item_27', 'item_34', 'item_36']",3
+"['item_1', 'item_2', 'item_6', 'item_7', 'item_12', 'item_13', 'item_16', 'item_21', 'item_27', 'item_32', 'item_34', 'item_36']",6
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_10', 'item_13', 'item_16', 'item_19', 'item_20', 'item_21', 'item_24', 'item_27', 'item_28', 'item_29', 'item_30', 'item_32', 'item_34', 'item_36']",8
+"['item_2', 'item_6', 'item_13', 'item_32', 'item_33', 'item_34', 'item_35', 'item_38']",7
+"['item_0', 'item_1', 'item_2', 'item_3', 'item_4', 'item_6', 'item_9', 'item_13', 'item_14', 'item_15', 'item_19', 'item_20', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_33', 'item_34', 'item_36']",16
+"['item_8', 'item_9', 'item_15', 'item_19', 'item_20', 'item_24', 'item_27', 'item_28', 'item_30', 'item_35', 'item_37']",1
+"['item_1', 'item_2', 'item_6', 'item_13', 'item_14', 'item_16', 'item_18', 'item_32', 'item_34', 'item_38']",6
+"['item_1', 'item_6', 'item_10', 'item_12', 'item_21', 'item_25', 'item_27', 'item_34', 'item_36']",1
+"['item_1', 'item_2', 'item_3', 'item_6', 'item_13', 'item_18', 'item_21', 'item_25', 'item_27', 'item_32', 'item_34', 'item_36']",5
+"['item_2', 'item_9', 'item_13', 'item_19', 'item_24', 'item_28', 'item_29', 'item_30', 'item_32']",3
+"['item_1', 'item_2', 'item_3', 'item_9', 'item_11', 'item_13', 'item_16', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36', 'item_37']",10
+"['item_0', 'item_1', 'item_2', 'item_5', 'item_6', 'item_9', 'item_13', 'item_16', 'item_17', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_29', 'item_30', 'item_32', 'item_34', 'item_35', 'item_36', 'item_38']",9
+"['item_1', 'item_2', 'item_9', 'item_11', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",15
+"['item_1', 'item_2', 'item_12', 'item_13', 'item_16', 'item_19', 'item_21', 'item_23', 'item_27', 'item_30', 'item_32', 'item_35', 'item_36']",2
+"['item_2', 'item_9', 'item_12', 'item_13', 'item_19', 'item_24', 'item_28', 'item_30', 'item_32']",7
+"['item_2', 'item_13', 'item_16', 'item_20', 'item_32', 'item_35', 'item_36']",7
+"['item_1', 'item_2', 'item_4', 'item_6', 'item_9', 'item_13', 'item_18', 'item_19', 'item_20', 'item_21', 'item_24', 'item_25', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",16
+"['item_1', 'item_2', 'item_13', 'item_16', 'item_21', 'item_27', 'item_31', 'item_32', 'item_34', 'item_36', 'item_38']",5
+"['item_6', 'item_12', 'item_17', 'item_29', 'item_33', 'item_34', 'item_35']",0
+"['item_2', 'item_13', 'item_14', 'item_18', 'item_29', 'item_32']",4
+"['item_2', 'item_13', 'item_14', 'item_29', 'item_30', 'item_32', 'item_34', 'item_36']",1
+"['item_0', 'item_1', 'item_2', 'item_3', 'item_5', 'item_6', 'item_11', 'item_12', 'item_21', 'item_26', 'item_27', 'item_28', 'item_36']",2
+"['item_2', 'item_4', 'item_13', 'item_15', 'item_28', 'item_32', 'item_35']",4
+"['item_2', 'item_13', 'item_14', 'item_16', 'item_19', 'item_21', 'item_23', 'item_24', 'item_25', 'item_32', 'item_35', 'item_36']",1
+"['item_4', 'item_6', 'item_14', 'item_19', 'item_23', 'item_28', 'item_31', 'item_34']",1
+"['item_1', 'item_9', 'item_12', 'item_19', 'item_21', 'item_23', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",3
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_11', 'item_13', 'item_19', 'item_21', 'item_24', 'item_26', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36', 'item_37']",17
+"['item_1', 'item_2', 'item_5', 'item_6', 'item_12', 'item_13', 'item_21', 'item_27', 'item_32', 'item_34', 'item_36']",4
+"['item_6', 'item_10', 'item_21', 'item_23', 'item_30', 'item_31', 'item_34', 'item_38']",1
+"['item_1', 'item_2', 'item_9', 'item_12', 'item_13', 'item_19', 'item_20', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",5
+"['item_6', 'item_9', 'item_19', 'item_24', 'item_28', 'item_30', 'item_34', 'item_36']",9
+"['item_6', 'item_14', 'item_34']",1
+"['item_1', 'item_6', 'item_21', 'item_22', 'item_27', 'item_29', 'item_34', 'item_35', 'item_36', 'item_38']",1
+"['item_2', 'item_4', 'item_5', 'item_6', 'item_10', 'item_13', 'item_17', 'item_23', 'item_24', 'item_25', 'item_32', 'item_33']",1
+"['item_6', 'item_9', 'item_11', 'item_19', 'item_23', 'item_24', 'item_28', 'item_30', 'item_34', 'item_36']",4
+"['item_1', 'item_21', 'item_27', 'item_36']",1
+"['item_2', 'item_5', 'item_6', 'item_13', 'item_22', 'item_23', 'item_29', 'item_32', 'item_34']",4
+"['item_1', 'item_2', 'item_13', 'item_15', 'item_16', 'item_18', 'item_21', 'item_22', 'item_26', 'item_27', 'item_32', 'item_36', 'item_38']",5
+"['item_2', 'item_13', 'item_19', 'item_21', 'item_25', 'item_32', 'item_33', 'item_35']",3
+"['item_1', 'item_6', 'item_7', 'item_9', 'item_16', 'item_19', 'item_21', 'item_23', 'item_24', 'item_27', 'item_28', 'item_30', 'item_34', 'item_36']",11
+"['item_1', 'item_5', 'item_7', 'item_9', 'item_11', 'item_14', 'item_16', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_29', 'item_30', 'item_31', 'item_36']",3
+"['item_1', 'item_2', 'item_6', 'item_13', 'item_21', 'item_24', 'item_27', 'item_32', 'item_34', 'item_36', 'item_38']",1
+"['item_2', 'item_6', 'item_13', 'item_17', 'item_29', 'item_32', 'item_34']",1
+"['item_0', 'item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",9
+"['item_1', 'item_4', 'item_5', 'item_7', 'item_9', 'item_15', 'item_19', 'item_20', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_30', 'item_36']",2
+"['item_2', 'item_6', 'item_9', 'item_10', 'item_13', 'item_19', 'item_20', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34']",5
+"['item_2', 'item_3', 'item_6', 'item_13', 'item_14', 'item_21', 'item_28', 'item_32', 'item_34', 'item_38']",5
+"['item_1', 'item_2', 'item_4', 'item_6', 'item_12', 'item_13', 'item_14', 'item_15', 'item_21', 'item_27', 'item_28', 'item_32', 'item_34', 'item_36']",0
+"['item_2', 'item_4', 'item_13', 'item_17', 'item_32']",0
+"['item_2', 'item_6', 'item_9', 'item_13', 'item_15', 'item_19', 'item_20', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34']",10
+"['item_0', 'item_5', 'item_6', 'item_7', 'item_9', 'item_11', 'item_15', 'item_16', 'item_19', 'item_20', 'item_24', 'item_28', 'item_30', 'item_34', 'item_37']",4
+"['item_0', 'item_2', 'item_6', 'item_13', 'item_17', 'item_27', 'item_32', 'item_34']",4
+"['item_1', 'item_9', 'item_19', 'item_20', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_31', 'item_33', 'item_36', 'item_38']",8
+"['item_1', 'item_2', 'item_10', 'item_13', 'item_20', 'item_21', 'item_25', 'item_27', 'item_30', 'item_32', 'item_36']",2
+"['item_1', 'item_2', 'item_3', 'item_9', 'item_13', 'item_17', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",11
+"['item_2', 'item_6', 'item_9', 'item_13', 'item_19', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34']",9
+"['item_0', 'item_1', 'item_2', 'item_5', 'item_8', 'item_9', 'item_11', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_31', 'item_32', 'item_36']",10
+"['item_1', 'item_6', 'item_9', 'item_16', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_34', 'item_36']",6
+"['item_1', 'item_2', 'item_3', 'item_13', 'item_24', 'item_27', 'item_32']",4
+"['item_1', 'item_3', 'item_6', 'item_21', 'item_27', 'item_33', 'item_34', 'item_35', 'item_36']",0
+"['item_2', 'item_7', 'item_9', 'item_13', 'item_18', 'item_19', 'item_24', 'item_28', 'item_30', 'item_32', 'item_33']",7
+"['item_1', 'item_7', 'item_8', 'item_12', 'item_21', 'item_23', 'item_27', 'item_30', 'item_31', 'item_36', 'item_38']",1
+"['item_1', 'item_2', 'item_4', 'item_6', 'item_13', 'item_23', 'item_28', 'item_32', 'item_33', 'item_34', 'item_35']",4
+"['item_1', 'item_2', 'item_3', 'item_6', 'item_9', 'item_13', 'item_16', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",7
+"['item_1', 'item_9', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_35', 'item_36', 'item_38']",6
+"['item_1', 'item_18', 'item_21', 'item_27', 'item_35', 'item_36']",4
+"['item_2', 'item_3', 'item_9', 'item_13', 'item_19', 'item_23', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32']",1
+"['item_1', 'item_6', 'item_9', 'item_11', 'item_19', 'item_20', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",5
+"['item_3', 'item_6', 'item_9', 'item_13', 'item_19', 'item_20', 'item_24', 'item_28', 'item_30', 'item_34', 'item_37']",5
+"['item_1', 'item_11', 'item_16', 'item_21', 'item_27', 'item_36']",1
+"['item_6', 'item_9', 'item_11', 'item_19', 'item_24', 'item_28', 'item_30', 'item_37']",9
+"['item_1', 'item_3', 'item_10', 'item_13', 'item_18', 'item_21', 'item_27', 'item_36']",2
+"['item_1', 'item_2', 'item_6', 'item_13', 'item_21', 'item_27', 'item_31', 'item_32', 'item_34', 'item_35', 'item_36']",7
+"['item_1', 'item_2', 'item_8', 'item_13', 'item_21', 'item_26', 'item_27', 'item_32', 'item_36']",3
+"['item_5', 'item_6', 'item_8', 'item_20', 'item_26', 'item_27', 'item_33', 'item_34']",0
+"['item_0', 'item_1', 'item_4', 'item_6', 'item_9', 'item_12', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_34', 'item_36']",6
+"['item_1', 'item_3', 'item_6', 'item_21', 'item_27', 'item_33', 'item_36', 'item_38']",1
+"['item_1', 'item_6', 'item_7', 'item_9', 'item_10', 'item_18', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_33', 'item_34', 'item_36']",7
+"['item_1', 'item_2', 'item_4', 'item_6', 'item_12', 'item_13', 'item_27', 'item_32', 'item_34']",4
+"['item_1', 'item_2', 'item_6', 'item_10', 'item_13', 'item_14', 'item_21', 'item_27', 'item_34', 'item_36']",2
+"['item_3', 'item_6', 'item_7', 'item_9', 'item_16', 'item_19', 'item_20', 'item_24', 'item_28', 'item_30', 'item_34']",6
+"['item_0', 'item_2', 'item_3', 'item_7', 'item_9', 'item_13', 'item_15', 'item_19', 'item_24', 'item_28', 'item_30', 'item_31', 'item_32']",7
+"['item_0', 'item_2', 'item_6', 'item_12', 'item_13', 'item_18', 'item_32', 'item_34', 'item_35']",4
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_16', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_29', 'item_30', 'item_32', 'item_34', 'item_36']",9
+"['item_2', 'item_13', 'item_14', 'item_21', 'item_29', 'item_32', 'item_33', 'item_38']",2
+"['item_1', 'item_2', 'item_13', 'item_21', 'item_27', 'item_32', 'item_35', 'item_36', 'item_37']",5
+"['item_3', 'item_7', 'item_9', 'item_14', 'item_19', 'item_24', 'item_25', 'item_28', 'item_30', 'item_36']",3
+"['item_4', 'item_6', 'item_7', 'item_9', 'item_19', 'item_24', 'item_28', 'item_29', 'item_30', 'item_34', 'item_35', 'item_37']",4
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_10', 'item_13', 'item_15', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",14
+"['item_1', 'item_2', 'item_3', 'item_4', 'item_13', 'item_21', 'item_22', 'item_27', 'item_28', 'item_32', 'item_34', 'item_36']",2
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_12', 'item_13', 'item_21', 'item_27', 'item_29', 'item_32', 'item_34', 'item_36', 'item_38']",3
+"['item_1', 'item_5', 'item_6', 'item_9', 'item_19', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_30', 'item_31', 'item_34', 'item_36', 'item_38']",6
+"['item_2', 'item_6', 'item_9', 'item_13', 'item_19', 'item_20', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",5
+"['item_0', 'item_9', 'item_19', 'item_23', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32']",10
+"['item_1', 'item_2', 'item_4', 'item_6', 'item_13', 'item_21', 'item_22', 'item_27', 'item_32', 'item_34', 'item_35', 'item_36']",6
+"['item_1', 'item_9', 'item_21', 'item_27', 'item_29', 'item_35', 'item_36']",2
+"['item_6', 'item_11', 'item_16', 'item_21', 'item_22', 'item_32', 'item_34', 'item_35']",1
+"['item_2', 'item_9', 'item_12', 'item_13', 'item_15', 'item_18', 'item_19', 'item_24', 'item_28', 'item_30', 'item_32', 'item_37']",8
+"['item_4', 'item_6', 'item_9', 'item_19', 'item_24', 'item_27', 'item_28', 'item_30', 'item_34', 'item_36']",9
+"['item_2', 'item_3', 'item_13', 'item_19', 'item_24', 'item_25', 'item_31', 'item_32', 'item_38']",2
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_19', 'item_21', 'item_23', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",8
+"['item_1', 'item_6', 'item_8', 'item_9', 'item_18', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_34', 'item_36']",8
+"['item_1', 'item_2', 'item_4', 'item_6', 'item_13', 'item_21', 'item_22', 'item_27', 'item_30', 'item_32', 'item_34', 'item_36', 'item_38']",6
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_11', 'item_13', 'item_19', 'item_21', 'item_24', 'item_25', 'item_26', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36', 'item_37']",8
+"['item_1', 'item_2', 'item_9', 'item_13', 'item_16', 'item_19', 'item_21', 'item_23', 'item_24', 'item_27', 'item_28', 'item_30', 'item_31', 'item_32', 'item_36']",8
+"['item_1', 'item_2', 'item_6', 'item_13', 'item_14', 'item_21', 'item_25', 'item_27', 'item_30', 'item_32', 'item_33', 'item_34', 'item_36']",7
+"['item_1', 'item_9', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_34', 'item_36']",7
+"['item_0', 'item_1', 'item_2', 'item_6', 'item_10', 'item_13', 'item_21', 'item_24', 'item_26', 'item_27', 'item_31', 'item_32', 'item_34', 'item_36']",3
+"['item_1', 'item_12', 'item_16', 'item_18', 'item_21', 'item_27', 'item_36']",1
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_19', 'item_21', 'item_24', 'item_26', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_35', 'item_36']",11
+"['item_1', 'item_2', 'item_6', 'item_13', 'item_18', 'item_21', 'item_27', 'item_29', 'item_32', 'item_33', 'item_34', 'item_36', 'item_37']",0
+"['item_2', 'item_6', 'item_7', 'item_12', 'item_13', 'item_14', 'item_32', 'item_34', 'item_37']",7
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_16', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_29', 'item_30', 'item_32', 'item_33', 'item_34', 'item_36', 'item_37']",10
+"['item_1', 'item_2', 'item_6', 'item_13', 'item_32', 'item_34', 'item_36']",4
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_19', 'item_21', 'item_22', 'item_24', 'item_25', 'item_26', 'item_27', 'item_28', 'item_29', 'item_30', 'item_31', 'item_32', 'item_34', 'item_36']",11
+"['item_0', 'item_1', 'item_7', 'item_9', 'item_17', 'item_19', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_30', 'item_36']",4
+"['item_0', 'item_6', 'item_17', 'item_20', 'item_26', 'item_31', 'item_34']",1
+"['item_2', 'item_6', 'item_12', 'item_13', 'item_27', 'item_32']",0
+"['item_2', 'item_9', 'item_13', 'item_15', 'item_19', 'item_21', 'item_24', 'item_25', 'item_26', 'item_28', 'item_30', 'item_32', 'item_34', 'item_37']",5
+"['item_1', 'item_2', 'item_6', 'item_13', 'item_18', 'item_21', 'item_27', 'item_32', 'item_33', 'item_34', 'item_36', 'item_37']",4
+"['item_1', 'item_2', 'item_13', 'item_21', 'item_27', 'item_32', 'item_33', 'item_36']",8
+"['item_1', 'item_6', 'item_9', 'item_15', 'item_17', 'item_19', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_29', 'item_30', 'item_31', 'item_34', 'item_36']",12
+"['item_2', 'item_6', 'item_7', 'item_18', 'item_21', 'item_27', 'item_34', 'item_38']",1
+"['item_2', 'item_6', 'item_9', 'item_13', 'item_15', 'item_19', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34']",11
+"['item_1', 'item_6', 'item_17', 'item_18', 'item_20', 'item_34', 'item_38']",1
+"['item_1', 'item_2', 'item_4', 'item_5', 'item_9', 'item_13', 'item_14', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_33', 'item_35', 'item_36']",8
+"['item_6', 'item_9', 'item_16', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_34', 'item_38']",5
+"['item_0', 'item_2', 'item_4', 'item_5', 'item_6', 'item_9', 'item_13', 'item_14', 'item_17', 'item_19', 'item_24', 'item_28', 'item_30', 'item_32', 'item_36']",6
+"['item_1', 'item_2', 'item_6', 'item_7', 'item_12', 'item_13', 'item_14', 'item_21', 'item_27', 'item_32', 'item_34', 'item_35', 'item_36']",5
+"['item_0', 'item_1', 'item_2', 'item_4', 'item_6', 'item_9', 'item_10', 'item_13', 'item_18', 'item_19', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34']",7
+"['item_2', 'item_6', 'item_13', 'item_16', 'item_25', 'item_32', 'item_34']",4
+"['item_1', 'item_3', 'item_6', 'item_11', 'item_21', 'item_24', 'item_27', 'item_32', 'item_34', 'item_35', 'item_36']",4
+"['item_2', 'item_5', 'item_9', 'item_13', 'item_19', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32']",7
+"['item_1', 'item_2', 'item_3', 'item_6', 'item_11', 'item_13', 'item_21', 'item_27', 'item_32', 'item_33', 'item_34', 'item_35', 'item_36', 'item_38']",2
+"['item_2', 'item_6', 'item_9', 'item_13', 'item_14', 'item_16', 'item_17', 'item_19', 'item_20', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34']",9
+"['item_2', 'item_6', 'item_13', 'item_17', 'item_32']",1
+"['item_1', 'item_3', 'item_5', 'item_6', 'item_13', 'item_21', 'item_24', 'item_26', 'item_27', 'item_34', 'item_36']",2
+"['item_2', 'item_6', 'item_9', 'item_13', 'item_16', 'item_19', 'item_20', 'item_21', 'item_24', 'item_28', 'item_29', 'item_30', 'item_32', 'item_34', 'item_35']",10
+"['item_1', 'item_9', 'item_11', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_36']",8
+"['item_1', 'item_6', 'item_9', 'item_16', 'item_19', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_30', 'item_31', 'item_33', 'item_34', 'item_36']",6
+"['item_0', 'item_2', 'item_4', 'item_7', 'item_11', 'item_12', 'item_13', 'item_18', 'item_19', 'item_21', 'item_32', 'item_34', 'item_37']",5
+"['item_2', 'item_9', 'item_13', 'item_18', 'item_19', 'item_20', 'item_22', 'item_24', 'item_28', 'item_30', 'item_32']",8
+"['item_1', 'item_9', 'item_18', 'item_19', 'item_22', 'item_24', 'item_25', 'item_28', 'item_29', 'item_30', 'item_37']",9
+"['item_1', 'item_2', 'item_9', 'item_11', 'item_13', 'item_15', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",11
+"['item_1', 'item_2', 'item_7', 'item_13', 'item_16', 'item_29', 'item_32']",0
+"['item_0', 'item_2', 'item_5', 'item_6', 'item_9', 'item_13', 'item_19', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36', 'item_38']",11
+"['item_0', 'item_2', 'item_3', 'item_8', 'item_9', 'item_13', 'item_14', 'item_17', 'item_19', 'item_24', 'item_28', 'item_30', 'item_33']",3
+"['item_0', 'item_9', 'item_19', 'item_24', 'item_28', 'item_30', 'item_36']",9
+"['item_1', 'item_2', 'item_3', 'item_7', 'item_13', 'item_21', 'item_24', 'item_27', 'item_32', 'item_36', 'item_37']",3
+"['item_2', 'item_7', 'item_13', 'item_22', 'item_24', 'item_32']",3
+"['item_1', 'item_2', 'item_4', 'item_6', 'item_9', 'item_13', 'item_17', 'item_18', 'item_19', 'item_21', 'item_24', 'item_25', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",7
+"['item_6', 'item_7', 'item_9', 'item_19', 'item_20', 'item_22', 'item_24', 'item_25', 'item_28', 'item_30', 'item_34', 'item_35']",7
+"['item_2', 'item_5', 'item_6', 'item_9', 'item_12', 'item_13', 'item_18', 'item_19', 'item_21', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34']",13
+"['item_2', 'item_13', 'item_22', 'item_28', 'item_32', 'item_33']",2
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_17', 'item_19', 'item_21', 'item_23', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",8
+"['item_1', 'item_7', 'item_8', 'item_9', 'item_12', 'item_13', 'item_21', 'item_25', 'item_27', 'item_36']",2
+"['item_1', 'item_9', 'item_19', 'item_21', 'item_24', 'item_26', 'item_27', 'item_28', 'item_30', 'item_36']",8
+"['item_1', 'item_5', 'item_6', 'item_10', 'item_18', 'item_24', 'item_25', 'item_27', 'item_31', 'item_34', 'item_36', 'item_37', 'item_38']",4
+"['item_4', 'item_5', 'item_6', 'item_9', 'item_14', 'item_18', 'item_19', 'item_21', 'item_24', 'item_28', 'item_30', 'item_31', 'item_34', 'item_35', 'item_38']",8
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",7
+"['item_9', 'item_19', 'item_23', 'item_24', 'item_28', 'item_30', 'item_33', 'item_37']",8
+"['item_1', 'item_15', 'item_21', 'item_27', 'item_32', 'item_36']",0
+"['item_1', 'item_6', 'item_13', 'item_21', 'item_23', 'item_26', 'item_27', 'item_30', 'item_31', 'item_33', 'item_34', 'item_36']",1
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_19', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36', 'item_38']",8
+"['item_1', 'item_2', 'item_5', 'item_8', 'item_13', 'item_19', 'item_23', 'item_30', 'item_31', 'item_32']",1
+"['item_1', 'item_2', 'item_9', 'item_13', 'item_19', 'item_21', 'item_23', 'item_24', 'item_27', 'item_28', 'item_30', 'item_31', 'item_32', 'item_36']",10
+"['item_0', 'item_2', 'item_13', 'item_15', 'item_17', 'item_20', 'item_26', 'item_29', 'item_32', 'item_36']",3
+"['item_1', 'item_6', 'item_9', 'item_10', 'item_11', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_36']",6
+"['item_1', 'item_4', 'item_6', 'item_9', 'item_18', 'item_19', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_29', 'item_30', 'item_34', 'item_36']",11
+"['item_0', 'item_2', 'item_6', 'item_13', 'item_14', 'item_17', 'item_32', 'item_36']",5
+"['item_0', 'item_2', 'item_11', 'item_13', 'item_23', 'item_26', 'item_32', 'item_34', 'item_36', 'item_37']",3
+"['item_0', 'item_2', 'item_6', 'item_9', 'item_12', 'item_13', 'item_19', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34', 'item_35']",10
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_15', 'item_21', 'item_27', 'item_30', 'item_32', 'item_34', 'item_36']",5
+"['item_0', 'item_1', 'item_2', 'item_9', 'item_10', 'item_12', 'item_13', 'item_19', 'item_21', 'item_24', 'item_25', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",5
+"['item_1', 'item_2', 'item_3', 'item_6', 'item_9', 'item_10', 'item_11', 'item_12', 'item_13', 'item_19', 'item_21', 'item_24', 'item_26', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",9
+"['item_2', 'item_3', 'item_9', 'item_13', 'item_17', 'item_19', 'item_24', 'item_28', 'item_30', 'item_31', 'item_32', 'item_38']",8
+"['item_2', 'item_6', 'item_7', 'item_13', 'item_22', 'item_32', 'item_34', 'item_38']",6
+"['item_1', 'item_2', 'item_6', 'item_8', 'item_9', 'item_13', 'item_15', 'item_21', 'item_24', 'item_25', 'item_26', 'item_27', 'item_29', 'item_31', 'item_32', 'item_36']",3
+"['item_0', 'item_1', 'item_2', 'item_4', 'item_9', 'item_19', 'item_20', 'item_21', 'item_22', 'item_24', 'item_26', 'item_27', 'item_28', 'item_30', 'item_36']",6
+"['item_2', 'item_9', 'item_13', 'item_17', 'item_19', 'item_24', 'item_26', 'item_28', 'item_30', 'item_32', 'item_34', 'item_35']",4
+"['item_1', 'item_6', 'item_7', 'item_9', 'item_10', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36', 'item_38']",4
+"['item_1', 'item_2', 'item_5', 'item_9', 'item_13', 'item_16', 'item_19', 'item_20', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_30', 'item_31', 'item_32', 'item_36']",12
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_16', 'item_19', 'item_21', 'item_23', 'item_24', 'item_25', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",12
+"['item_1', 'item_2', 'item_5', 'item_13', 'item_14', 'item_21', 'item_23', 'item_27', 'item_32', 'item_35', 'item_36']",3
+"['item_3', 'item_6', 'item_9', 'item_11', 'item_12', 'item_19', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32']",5
+"['item_1', 'item_2', 'item_4', 'item_6', 'item_9', 'item_13', 'item_14', 'item_19', 'item_21', 'item_23', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_33', 'item_34', 'item_36']",14
+"['item_0', 'item_1', 'item_2', 'item_6', 'item_8', 'item_9', 'item_13', 'item_19', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",5
+"['item_2', 'item_5', 'item_8', 'item_13', 'item_30', 'item_31', 'item_32']",2
+"['item_1', 'item_2', 'item_9', 'item_13', 'item_21', 'item_26', 'item_27', 'item_29', 'item_32', 'item_34', 'item_36']",2
+"['item_1', 'item_2', 'item_6', 'item_7', 'item_9', 'item_13', 'item_14', 'item_15', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",14
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",17
+"['item_2', 'item_4', 'item_9', 'item_13', 'item_19', 'item_24', 'item_28', 'item_30', 'item_32', 'item_36']",9
+"['item_2', 'item_5', 'item_13', 'item_22', 'item_24', 'item_32']",4
+"['item_1', 'item_2', 'item_13', 'item_17', 'item_21', 'item_27', 'item_32', 'item_36']",6
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_19', 'item_20', 'item_21', 'item_24', 'item_25', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",14
+"['item_1', 'item_9', 'item_10', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_31', 'item_36', 'item_38']",4
+"['item_2', 'item_8', 'item_9', 'item_10', 'item_12', 'item_13', 'item_19', 'item_24', 'item_28', 'item_30', 'item_32', 'item_35']",9
+"['item_6', 'item_9', 'item_19', 'item_24', 'item_26', 'item_27', 'item_28', 'item_30', 'item_34', 'item_37']",8
+"['item_3', 'item_4', 'item_6', 'item_21', 'item_34']",0
+"['item_1', 'item_2', 'item_9', 'item_11', 'item_13', 'item_16', 'item_18', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",4
+"['item_1', 'item_16', 'item_19', 'item_21', 'item_23', 'item_24', 'item_26', 'item_27', 'item_35', 'item_36']",1
+"['item_2', 'item_6', 'item_7', 'item_9', 'item_10', 'item_12', 'item_13', 'item_19', 'item_21', 'item_24', 'item_28', 'item_30', 'item_32']",7
+"['item_2', 'item_6', 'item_10', 'item_12', 'item_13', 'item_21', 'item_28', 'item_31', 'item_32', 'item_37']",4
+"['item_1', 'item_2', 'item_6', 'item_13', 'item_21', 'item_27', 'item_30', 'item_31', 'item_32', 'item_34', 'item_36']",4
+"['item_2', 'item_6', 'item_13', 'item_16', 'item_27', 'item_30', 'item_32', 'item_34']",4
+"['item_6', 'item_9', 'item_18', 'item_19', 'item_21', 'item_24', 'item_28', 'item_30', 'item_34', 'item_36']",2
+"['item_3', 'item_4', 'item_6', 'item_9', 'item_19', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34']",8
+"['item_1', 'item_2', 'item_6', 'item_7', 'item_13', 'item_21', 'item_22', 'item_27', 'item_32', 'item_34', 'item_36']",6
+"['item_1', 'item_6', 'item_21', 'item_25', 'item_27', 'item_34', 'item_36']",1
+"['item_0', 'item_1', 'item_8', 'item_16', 'item_21', 'item_27', 'item_36', 'item_37']",2
+"['item_1', 'item_2', 'item_7', 'item_9', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",8
+"['item_1', 'item_2', 'item_4', 'item_13', 'item_17', 'item_21', 'item_25', 'item_27', 'item_32', 'item_36']",6
+"['item_6', 'item_12', 'item_20', 'item_27', 'item_33', 'item_34', 'item_38']",1
+"['item_2', 'item_3', 'item_6', 'item_13', 'item_18', 'item_32', 'item_38']",4
+"['item_2', 'item_5', 'item_6', 'item_13', 'item_21', 'item_22', 'item_24', 'item_32']",3
+"['item_1', 'item_2', 'item_13', 'item_17', 'item_21', 'item_27', 'item_28', 'item_32', 'item_36']",6
+"['item_2', 'item_6', 'item_13', 'item_18', 'item_22', 'item_33', 'item_34', 'item_38']",1
+"['item_1', 'item_9', 'item_19', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_30', 'item_36']",8
+"['item_1', 'item_2', 'item_8', 'item_9', 'item_10', 'item_13', 'item_19', 'item_21', 'item_24', 'item_25', 'item_26', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",5
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_19', 'item_21', 'item_23', 'item_24', 'item_27', 'item_28', 'item_30', 'item_36']",4
+"['item_5', 'item_6', 'item_9', 'item_19', 'item_24', 'item_26', 'item_28', 'item_30', 'item_31', 'item_34', 'item_35']",4
+"['item_1', 'item_6', 'item_7', 'item_9', 'item_21', 'item_27', 'item_34', 'item_36']",1
+"['item_9', 'item_14', 'item_18', 'item_19', 'item_20', 'item_24', 'item_26', 'item_28', 'item_30', 'item_35']",8
+"['item_0', 'item_1', 'item_5', 'item_6', 'item_11', 'item_21', 'item_26', 'item_27', 'item_32', 'item_34', 'item_36']",1
+"['item_1', 'item_3', 'item_8', 'item_9', 'item_13', 'item_16', 'item_19', 'item_24', 'item_28', 'item_30', 'item_33']",7
+"['item_1', 'item_2', 'item_9', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",12
+"['item_2', 'item_6', 'item_7', 'item_8', 'item_9', 'item_12', 'item_13', 'item_19', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34']",9
+"['item_2', 'item_6', 'item_9', 'item_17', 'item_19', 'item_24', 'item_27', 'item_28', 'item_30', 'item_33']",4
+"['item_1', 'item_2', 'item_13', 'item_16', 'item_21', 'item_22', 'item_31', 'item_32', 'item_37']",1
+"['item_1', 'item_2', 'item_9', 'item_11', 'item_12', 'item_13', 'item_16', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_29', 'item_30', 'item_32', 'item_36']",11
+"['item_0', 'item_8', 'item_9', 'item_17', 'item_19', 'item_24', 'item_28', 'item_30', 'item_37']",7
+"['item_6', 'item_9', 'item_14', 'item_19', 'item_24', 'item_28', 'item_30', 'item_34']",5
+"['item_2', 'item_4', 'item_6', 'item_7', 'item_9', 'item_13', 'item_19', 'item_23', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34']",12
+"['item_2', 'item_5', 'item_6', 'item_8', 'item_9', 'item_12', 'item_13', 'item_15', 'item_19', 'item_21', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34', 'item_37']",9
+"['item_2', 'item_6', 'item_9', 'item_13', 'item_19', 'item_24', 'item_26', 'item_28', 'item_29', 'item_30', 'item_32', 'item_38']",4
+"['item_1', 'item_2', 'item_8', 'item_10', 'item_13', 'item_21', 'item_27', 'item_32', 'item_36']",3
+"['item_1', 'item_9', 'item_13', 'item_19', 'item_21', 'item_24', 'item_26', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",5
+"['item_2', 'item_9', 'item_10', 'item_13', 'item_16', 'item_19', 'item_23', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_38']",7
+"['item_6', 'item_7', 'item_16', 'item_17', 'item_19', 'item_20', 'item_25', 'item_31', 'item_33', 'item_34']",2
+"['item_2', 'item_3', 'item_6', 'item_13', 'item_21', 'item_30', 'item_32', 'item_34']",7
+"['item_2', 'item_6', 'item_9', 'item_10', 'item_11', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34']",17
+"['item_1', 'item_2', 'item_5', 'item_13', 'item_21', 'item_27', 'item_32', 'item_36']",3
+"['item_2', 'item_3', 'item_8', 'item_13', 'item_19', 'item_20', 'item_28', 'item_32', 'item_33', 'item_37']",3
+"['item_1', 'item_6', 'item_9', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_34', 'item_36']",12
+"['item_1', 'item_6', 'item_9', 'item_19', 'item_20', 'item_21', 'item_23', 'item_24', 'item_25', 'item_27', 'item_28', 'item_30', 'item_34', 'item_36', 'item_38']",9
+"['item_0', 'item_1', 'item_2', 'item_9', 'item_11', 'item_19', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_30', 'item_36']",3
+"['item_1', 'item_6', 'item_7', 'item_9', 'item_13', 'item_21', 'item_24', 'item_27', 'item_32', 'item_34', 'item_36']",3
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_15', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_33', 'item_34', 'item_36']",14
+"['item_2', 'item_7', 'item_9', 'item_12', 'item_13', 'item_19', 'item_24', 'item_27', 'item_28', 'item_30', 'item_31', 'item_32', 'item_33']",9
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",10
+"['item_0', 'item_1', 'item_6', 'item_19', 'item_21', 'item_24', 'item_27', 'item_36', 'item_37']",1
+"['item_0', 'item_2', 'item_6', 'item_9', 'item_13', 'item_19', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34', 'item_35', 'item_36']",11
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_11', 'item_12', 'item_13', 'item_19', 'item_24', 'item_26', 'item_28', 'item_30', 'item_31', 'item_32', 'item_35', 'item_37']",9
+"['item_1', 'item_2', 'item_9', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",13
+"['item_6', 'item_12', 'item_26', 'item_32', 'item_34']",2
+"['item_1', 'item_2', 'item_11', 'item_13', 'item_16', 'item_20', 'item_21', 'item_25', 'item_32', 'item_33', 'item_35']",3
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_16', 'item_19', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_38']",10
+"['item_2', 'item_3', 'item_4', 'item_9', 'item_10', 'item_12', 'item_13', 'item_15', 'item_19', 'item_21', 'item_23', 'item_24', 'item_28', 'item_30', 'item_31', 'item_32', 'item_37']",8
+"['item_1', 'item_7', 'item_9', 'item_18', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",4
+"['item_5', 'item_9', 'item_12', 'item_17', 'item_19', 'item_20', 'item_24', 'item_28', 'item_30']",3
+"['item_2', 'item_4', 'item_5', 'item_6', 'item_9', 'item_16', 'item_34']",2
+"['item_2', 'item_7', 'item_13', 'item_17', 'item_22', 'item_25', 'item_29', 'item_32', 'item_34']",5
+"['item_1', 'item_2', 'item_9', 'item_10', 'item_16', 'item_19', 'item_20', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_36']",7
+"['item_1', 'item_2', 'item_6', 'item_10', 'item_20', 'item_21', 'item_24', 'item_26', 'item_27', 'item_34', 'item_35', 'item_36']",1
+"['item_1', 'item_2', 'item_5', 'item_6', 'item_7', 'item_13', 'item_15', 'item_18', 'item_21', 'item_25', 'item_27', 'item_34', 'item_36', 'item_37']",1
+"['item_6', 'item_9', 'item_11', 'item_34']",0
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_14', 'item_19', 'item_21', 'item_24', 'item_26', 'item_27', 'item_28', 'item_30', 'item_32', 'item_33', 'item_34', 'item_36', 'item_38']",14
+"['item_1', 'item_6', 'item_9', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_34', 'item_36']",9
+"['item_1', 'item_2', 'item_9', 'item_19', 'item_21', 'item_22', 'item_24', 'item_28', 'item_30']",5
+"['item_1', 'item_2', 'item_4', 'item_5', 'item_7', 'item_10', 'item_13', 'item_21', 'item_26', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",6
+"['item_1', 'item_6', 'item_9', 'item_12', 'item_14', 'item_19', 'item_20', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_30', 'item_34', 'item_36']",10
+"['item_1', 'item_2', 'item_13', 'item_15', 'item_21', 'item_26', 'item_27', 'item_29', 'item_32', 'item_36']",7
+"['item_4', 'item_6', 'item_9', 'item_20', 'item_34']",0
+"['item_1', 'item_5', 'item_10', 'item_18', 'item_21', 'item_27', 'item_33', 'item_36']",1
+"['item_1', 'item_2', 'item_9', 'item_13', 'item_19', 'item_24', 'item_25', 'item_28', 'item_30', 'item_32']",12
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_17', 'item_19', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",14
+"['item_1', 'item_2', 'item_4', 'item_6', 'item_9', 'item_13', 'item_18', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",6
+"['item_1', 'item_2', 'item_4', 'item_6', 'item_9', 'item_13', 'item_19', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",8
+"['item_1', 'item_2', 'item_13', 'item_15', 'item_16', 'item_21', 'item_22', 'item_24', 'item_27', 'item_32', 'item_33', 'item_36', 'item_37']",2
+"['item_1', 'item_2', 'item_13', 'item_14', 'item_18', 'item_20', 'item_21', 'item_27', 'item_29', 'item_32', 'item_36']",3
+"['item_1', 'item_2', 'item_9', 'item_18', 'item_21', 'item_27', 'item_30', 'item_31', 'item_36']",1
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_18', 'item_19', 'item_21', 'item_24', 'item_26', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_35', 'item_36']",11
+"['item_1', 'item_2', 'item_12', 'item_21', 'item_23', 'item_27', 'item_36']",0
+"['item_0', 'item_1', 'item_2', 'item_6', 'item_7', 'item_9', 'item_13', 'item_17', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_31', 'item_32', 'item_34', 'item_36']",13
+"['item_2', 'item_5', 'item_7', 'item_9', 'item_13', 'item_17', 'item_19', 'item_22', 'item_24', 'item_28', 'item_29', 'item_30', 'item_36']",7
+"['item_2', 'item_13', 'item_14', 'item_18', 'item_21', 'item_32', 'item_37']",4
+"['item_1', 'item_2', 'item_6', 'item_12', 'item_13', 'item_20', 'item_21', 'item_22', 'item_23', 'item_26', 'item_27', 'item_32', 'item_33', 'item_34', 'item_36']",2
+"['item_6', 'item_9', 'item_16', 'item_18', 'item_19', 'item_20', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_38']",6
+"['item_1', 'item_2', 'item_13', 'item_16', 'item_21', 'item_27', 'item_32', 'item_36']",5
+"['item_1', 'item_2', 'item_6', 'item_8', 'item_16', 'item_21', 'item_27', 'item_28', 'item_29', 'item_32', 'item_33', 'item_34', 'item_36', 'item_38']",3
+"['item_2', 'item_6', 'item_13', 'item_27', 'item_29', 'item_32', 'item_34']",4
+"['item_1', 'item_2', 'item_6', 'item_8', 'item_13', 'item_14', 'item_15', 'item_21', 'item_27', 'item_28', 'item_31', 'item_32', 'item_34', 'item_36']",2
+"['item_3', 'item_6', 'item_8', 'item_9', 'item_16', 'item_19', 'item_20', 'item_24', 'item_28', 'item_30', 'item_34']",4
+"['item_1', 'item_4', 'item_6', 'item_9', 'item_19', 'item_20', 'item_21', 'item_23', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",9
+"['item_2', 'item_6', 'item_13', 'item_14', 'item_24', 'item_32', 'item_34']",5
+"['item_1', 'item_2', 'item_3', 'item_12', 'item_21', 'item_27', 'item_36']",1
+"['item_1', 'item_2', 'item_4', 'item_5', 'item_6', 'item_8', 'item_9', 'item_10', 'item_19', 'item_24', 'item_26', 'item_28', 'item_30', 'item_34']",2
+"['item_1', 'item_2', 'item_6', 'item_13', 'item_21', 'item_26', 'item_27', 'item_32', 'item_34', 'item_36']",3
+"['item_1', 'item_2', 'item_6', 'item_13', 'item_23', 'item_29', 'item_32', 'item_34', 'item_38']",7
+"['item_1', 'item_3', 'item_9', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_35', 'item_36']",5
+"['item_1', 'item_3', 'item_9', 'item_19', 'item_21', 'item_24', 'item_25', 'item_27', 'item_28', 'item_30', 'item_36', 'item_37']",3
+"['item_1', 'item_7', 'item_12', 'item_13', 'item_18', 'item_19', 'item_21', 'item_27', 'item_36']",2
+"['item_1', 'item_2', 'item_3', 'item_6', 'item_8', 'item_11', 'item_13', 'item_19', 'item_21', 'item_25', 'item_27', 'item_32', 'item_34', 'item_36']",4
+"['item_1', 'item_6', 'item_9', 'item_18', 'item_19', 'item_22', 'item_24', 'item_27', 'item_28', 'item_30', 'item_34', 'item_38']",3
+"['item_1', 'item_2', 'item_3', 'item_9', 'item_12', 'item_13', 'item_19', 'item_20', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_35', 'item_36']",7
+"['item_9', 'item_11', 'item_12', 'item_13', 'item_19', 'item_23', 'item_24', 'item_28', 'item_30', 'item_32', 'item_38']",2
+"['item_1', 'item_6', 'item_9', 'item_19', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_30', 'item_34', 'item_36', 'item_37']",10
+"['item_0', 'item_1', 'item_2', 'item_13', 'item_16', 'item_19', 'item_20', 'item_21', 'item_26', 'item_27', 'item_28', 'item_32', 'item_34', 'item_36', 'item_38']",4
+"['item_0', 'item_6', 'item_34', 'item_35']",0
+"['item_2', 'item_13', 'item_32']",3
+"['item_1', 'item_9', 'item_11', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36', 'item_37']",10
+"['item_2', 'item_6', 'item_9', 'item_11', 'item_13', 'item_19', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34']",9
+"['item_1', 'item_3', 'item_5', 'item_6', 'item_9', 'item_11', 'item_14', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_34', 'item_36', 'item_37']",4
+"['item_2', 'item_6', 'item_9', 'item_11', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_31', 'item_32', 'item_33', 'item_34', 'item_38']",4
+"['item_9', 'item_14', 'item_19', 'item_21', 'item_24', 'item_28', 'item_30', 'item_35']",5
+"['item_2', 'item_7', 'item_13', 'item_20', 'item_32']",2
+"['item_1', 'item_2', 'item_6', 'item_7', 'item_9', 'item_12', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",5
+"['item_1', 'item_2', 'item_3', 'item_6', 'item_13', 'item_16', 'item_21', 'item_27', 'item_32', 'item_34', 'item_36']",8
+"['item_2', 'item_3', 'item_5', 'item_6', 'item_11', 'item_13', 'item_23', 'item_31', 'item_32', 'item_34', 'item_35']",5
+"['item_5', 'item_6', 'item_10', 'item_22', 'item_34']",0
+"['item_2', 'item_4', 'item_6', 'item_13', 'item_24', 'item_26', 'item_27', 'item_28', 'item_32', 'item_34', 'item_37']",4
+"['item_2', 'item_9', 'item_13', 'item_19', 'item_24', 'item_28', 'item_30', 'item_31', 'item_32', 'item_35']",10
+"['item_1', 'item_2', 'item_13', 'item_21', 'item_27', 'item_28', 'item_32', 'item_36']",3
+"['item_1', 'item_2', 'item_9', 'item_13', 'item_17', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",5
+"['item_2', 'item_3', 'item_7', 'item_13', 'item_18', 'item_22', 'item_24', 'item_25', 'item_27', 'item_32', 'item_38']",1
+"['item_1', 'item_5', 'item_6', 'item_14', 'item_16', 'item_21', 'item_25', 'item_27', 'item_33', 'item_34', 'item_36']",3
+"['item_2', 'item_6', 'item_13', 'item_16', 'item_22', 'item_24', 'item_31', 'item_32', 'item_34']",3
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_10', 'item_11', 'item_13', 'item_15', 'item_16', 'item_19', 'item_20', 'item_21', 'item_24', 'item_27', 'item_28', 'item_29', 'item_30', 'item_32', 'item_33', 'item_34', 'item_36', 'item_38']",9
+"['item_2', 'item_4', 'item_9', 'item_11', 'item_13', 'item_19', 'item_20', 'item_24', 'item_28', 'item_30', 'item_32']",6
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_19', 'item_24', 'item_25', 'item_28', 'item_30', 'item_32', 'item_34']",9
+"['item_2', 'item_6', 'item_9', 'item_13', 'item_19', 'item_24', 'item_28', 'item_30', 'item_32']",6
+"['item_1', 'item_2', 'item_6', 'item_13', 'item_21', 'item_27', 'item_29', 'item_32', 'item_33', 'item_36']",5
+"['item_1', 'item_6', 'item_9', 'item_15', 'item_16', 'item_19', 'item_21', 'item_23', 'item_24', 'item_27', 'item_28', 'item_30', 'item_34', 'item_36']",7
+"['item_1', 'item_6', 'item_19', 'item_21', 'item_22', 'item_23', 'item_27', 'item_29', 'item_31', 'item_33', 'item_34', 'item_36']",1
+"['item_1', 'item_2', 'item_3', 'item_6', 'item_11', 'item_12', 'item_13', 'item_17', 'item_21', 'item_23', 'item_27', 'item_32', 'item_34', 'item_36']",7
+"['item_1', 'item_2', 'item_6', 'item_12', 'item_13', 'item_18', 'item_21', 'item_22', 'item_27', 'item_32', 'item_34', 'item_36']",6
+"['item_6', 'item_9', 'item_14', 'item_19', 'item_21', 'item_24', 'item_25', 'item_28', 'item_29', 'item_30', 'item_34']",6
+"['item_0', 'item_1', 'item_2', 'item_9', 'item_13', 'item_16', 'item_18', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_35', 'item_36']",12
+"['item_0', 'item_1', 'item_6', 'item_9', 'item_19', 'item_23', 'item_24', 'item_27', 'item_28', 'item_29', 'item_30', 'item_33', 'item_34']",5
+"['item_0', 'item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_19', 'item_21', 'item_23', 'item_24', 'item_27', 'item_28', 'item_29', 'item_30', 'item_32', 'item_34', 'item_36']",15
+"['item_6', 'item_12', 'item_13', 'item_28', 'item_34']",0
+"['item_1', 'item_2', 'item_13', 'item_15', 'item_21', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",3
+"['item_1', 'item_6', 'item_10', 'item_21', 'item_27', 'item_31', 'item_34', 'item_36']",3
+"['item_6', 'item_7', 'item_11', 'item_34']",0
+"['item_0', 'item_1', 'item_2', 'item_7', 'item_9', 'item_13', 'item_19', 'item_21', 'item_22', 'item_24', 'item_25', 'item_27', 'item_28', 'item_30', 'item_32', 'item_33', 'item_35', 'item_36']",3
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_10', 'item_13', 'item_20', 'item_21', 'item_23', 'item_27', 'item_32', 'item_36']",3
+"['item_1', 'item_2', 'item_13', 'item_21', 'item_27', 'item_32', 'item_36', 'item_37']",5
+"['item_1', 'item_12', 'item_16', 'item_17', 'item_21', 'item_23', 'item_27', 'item_33', 'item_36']",1
+"['item_1', 'item_2', 'item_6', 'item_11', 'item_21', 'item_27', 'item_33', 'item_34', 'item_36']",0
+"['item_6', 'item_9', 'item_18', 'item_19', 'item_20', 'item_24', 'item_28', 'item_30', 'item_34']",6
+"['item_4', 'item_6', 'item_33', 'item_34', 'item_36', 'item_37']",1
+"['item_2', 'item_3', 'item_5', 'item_6', 'item_9', 'item_12', 'item_19', 'item_22', 'item_24', 'item_25', 'item_28', 'item_30', 'item_37']",10
+"['item_0', 'item_1', 'item_2', 'item_9', 'item_13', 'item_18', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",11
+"['item_1', 'item_2', 'item_21', 'item_23', 'item_27', 'item_28', 'item_31', 'item_36']",2
+"['item_6', 'item_15', 'item_17', 'item_19', 'item_27', 'item_34']",2
+"['item_0', 'item_1', 'item_2', 'item_6', 'item_9', 'item_12', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",11
+"['item_1', 'item_3', 'item_6', 'item_12', 'item_17', 'item_19', 'item_20', 'item_21', 'item_27', 'item_32', 'item_36']",0
+"['item_4', 'item_6', 'item_9', 'item_17', 'item_19', 'item_24', 'item_27', 'item_28', 'item_30', 'item_34', 'item_38']",3
+"['item_1', 'item_6', 'item_11', 'item_17', 'item_21', 'item_25', 'item_27', 'item_31', 'item_34', 'item_36']",3
+"['item_2', 'item_6', 'item_13', 'item_21', 'item_22', 'item_32', 'item_34']",2
+"['item_1', 'item_9', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_31', 'item_36']",6
+"['item_1', 'item_3', 'item_6', 'item_9', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_34', 'item_35', 'item_36']",13
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_11', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36', 'item_38']",14
+"['item_2', 'item_11', 'item_13', 'item_18', 'item_22', 'item_32', 'item_33']",3
+"['item_6', 'item_9', 'item_18', 'item_19', 'item_24', 'item_28', 'item_30', 'item_33', 'item_34', 'item_36', 'item_38']",10
+"['item_2', 'item_13', 'item_17', 'item_26', 'item_29', 'item_32', 'item_33']",3
+"['item_1', 'item_3', 'item_19', 'item_21', 'item_24', 'item_27', 'item_32', 'item_36']",0
+"['item_1', 'item_2', 'item_5', 'item_6', 'item_9', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_33', 'item_34', 'item_36', 'item_37']",9
+"['item_2', 'item_6', 'item_9', 'item_10', 'item_13', 'item_19', 'item_22', 'item_24', 'item_28', 'item_29', 'item_30', 'item_32', 'item_34', 'item_37']",16
+"['item_1', 'item_2', 'item_5', 'item_6', 'item_11', 'item_13', 'item_16', 'item_21', 'item_27', 'item_31', 'item_36']",1
+"['item_2', 'item_4', 'item_5', 'item_6', 'item_13', 'item_16', 'item_32', 'item_34']",4
+"['item_6', 'item_9', 'item_11', 'item_19', 'item_24', 'item_26', 'item_28', 'item_30', 'item_32', 'item_34']",8
+"['item_0', 'item_2', 'item_4', 'item_6', 'item_9', 'item_19', 'item_24', 'item_28', 'item_30', 'item_34']",5
+"['item_0', 'item_9', 'item_12', 'item_15', 'item_18', 'item_19', 'item_20', 'item_24', 'item_27', 'item_28', 'item_30']",5
+"['item_1', 'item_8', 'item_9', 'item_12', 'item_19', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_30', 'item_36']",10
+"['item_2', 'item_6', 'item_9', 'item_12', 'item_13', 'item_14', 'item_15', 'item_18', 'item_19', 'item_20', 'item_22', 'item_24', 'item_25', 'item_28', 'item_30', 'item_32', 'item_34', 'item_35', 'item_36']",12
+"['item_1', 'item_3', 'item_6', 'item_9', 'item_18', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_29', 'item_30', 'item_34', 'item_36']",12
+"['item_2', 'item_4', 'item_6', 'item_13', 'item_25', 'item_32', 'item_34', 'item_37']",5
+"['item_0', 'item_1', 'item_12', 'item_18', 'item_21', 'item_27', 'item_36']",1
+"['item_2', 'item_7', 'item_9', 'item_13', 'item_19', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34']",5
+"['item_3', 'item_4', 'item_6', 'item_11', 'item_13', 'item_21', 'item_25', 'item_28', 'item_30', 'item_32', 'item_34', 'item_37']",0
+"['item_1', 'item_2', 'item_13', 'item_21', 'item_27', 'item_30', 'item_32', 'item_36']",7
+"['item_1', 'item_9', 'item_14', 'item_19', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_30', 'item_36', 'item_37']",8
+"['item_1', 'item_2', 'item_6', 'item_13', 'item_21', 'item_27', 'item_32', 'item_33', 'item_34', 'item_35', 'item_36']",5
+"['item_4', 'item_6', 'item_7', 'item_9', 'item_10', 'item_19', 'item_24', 'item_25', 'item_27', 'item_28', 'item_29', 'item_30', 'item_31', 'item_34']",4
+"['item_1', 'item_2', 'item_6', 'item_11', 'item_13', 'item_15', 'item_20', 'item_21', 'item_27', 'item_32', 'item_34', 'item_36']",9
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",7
+"['item_1', 'item_2', 'item_6', 'item_11', 'item_16', 'item_18', 'item_21', 'item_24', 'item_27', 'item_34', 'item_36']",2
+"['item_0', 'item_6', 'item_25', 'item_34', 'item_37', 'item_38']",0
+"['item_6', 'item_9', 'item_19', 'item_27', 'item_30', 'item_34']",2
+"['item_2', 'item_6', 'item_8', 'item_13', 'item_32', 'item_34', 'item_37']",5
+"['item_1', 'item_2', 'item_6', 'item_13', 'item_17', 'item_20', 'item_21', 'item_27', 'item_29', 'item_31', 'item_32', 'item_34', 'item_36']",2
+"['item_0', 'item_4', 'item_6', 'item_7', 'item_9', 'item_11', 'item_12', 'item_13', 'item_15', 'item_19', 'item_24', 'item_26', 'item_28', 'item_30', 'item_34', 'item_35']",4
+"['item_2', 'item_4', 'item_13', 'item_19', 'item_24', 'item_28', 'item_32']",3
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_15', 'item_19', 'item_20', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36', 'item_37', 'item_38']",6
+"['item_2', 'item_12', 'item_13', 'item_23', 'item_30', 'item_32', 'item_34']",6
+"['item_1', 'item_21', 'item_27', 'item_31', 'item_36']",1
+"['item_1', 'item_3', 'item_7', 'item_9', 'item_12', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_33', 'item_36']",8
+"['item_1', 'item_5', 'item_6', 'item_9', 'item_10', 'item_19', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_30', 'item_34', 'item_36']",9
+"['item_1', 'item_2', 'item_7', 'item_9', 'item_13', 'item_16', 'item_19', 'item_20', 'item_21', 'item_24', 'item_26', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",10
+"['item_1', 'item_6', 'item_21', 'item_27', 'item_34', 'item_36']",0
+"['item_2', 'item_6', 'item_14', 'item_15', 'item_17', 'item_21', 'item_27', 'item_34']",1
+"['item_1', 'item_2', 'item_4', 'item_6', 'item_8', 'item_9', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",13
+"['item_1', 'item_4', 'item_6', 'item_9', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_34', 'item_36']",9
+"['item_1', 'item_5', 'item_6', 'item_14', 'item_16', 'item_21', 'item_26', 'item_27', 'item_34', 'item_36', 'item_38']",2
+"['item_1', 'item_2', 'item_6', 'item_9', 'item_13', 'item_19', 'item_24', 'item_25', 'item_28', 'item_29', 'item_30', 'item_32', 'item_34', 'item_38']",11
+"['item_6', 'item_14', 'item_18', 'item_24', 'item_26', 'item_34']",0
+"['item_1', 'item_2', 'item_3', 'item_6', 'item_13', 'item_18', 'item_23', 'item_32', 'item_34']",7
+"['item_1', 'item_2', 'item_8', 'item_9', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_34', 'item_36']",5
+"['item_1', 'item_2', 'item_4', 'item_21', 'item_27', 'item_32', 'item_36', 'item_37']",0
+"['item_1', 'item_6', 'item_11', 'item_14', 'item_15', 'item_21', 'item_27', 'item_28', 'item_34', 'item_36']",1
+"['item_2', 'item_13', 'item_17', 'item_32']",4
+"['item_2', 'item_6', 'item_13', 'item_14', 'item_21', 'item_23', 'item_28', 'item_32', 'item_33', 'item_34', 'item_38']",5
+"['item_5', 'item_9', 'item_19', 'item_23', 'item_24', 'item_28', 'item_30']",8
+"['item_1', 'item_6', 'item_21', 'item_27', 'item_33', 'item_34', 'item_36']",2
+"['item_1', 'item_2', 'item_9', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",13
+"['item_1', 'item_6', 'item_13', 'item_18', 'item_21', 'item_24', 'item_27', 'item_34', 'item_35', 'item_36']",2
+"['item_2', 'item_6', 'item_13', 'item_17', 'item_32', 'item_34', 'item_35']",4
+"['item_1', 'item_6', 'item_8', 'item_9', 'item_11', 'item_12', 'item_17', 'item_19', 'item_20', 'item_21', 'item_24', 'item_26', 'item_27', 'item_28', 'item_30', 'item_34', 'item_36', 'item_38']",3
+"['item_1', 'item_2', 'item_7', 'item_9', 'item_10', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_36']",9
+"['item_0', 'item_2', 'item_3', 'item_4', 'item_6', 'item_19', 'item_22', 'item_33', 'item_34']",1
+"['item_1', 'item_2', 'item_4', 'item_5', 'item_6', 'item_13', 'item_21', 'item_22', 'item_27', 'item_32', 'item_34', 'item_36', 'item_38']",6
+"['item_0', 'item_6', 'item_18', 'item_31', 'item_33', 'item_34', 'item_38']",1
+"['item_1', 'item_2', 'item_13', 'item_24', 'item_32', 'item_34']",1
+"['item_2', 'item_3', 'item_4', 'item_6', 'item_9', 'item_13', 'item_19', 'item_21', 'item_24', 'item_28', 'item_29', 'item_30', 'item_32', 'item_34']",9
+"['item_2', 'item_6', 'item_13', 'item_15', 'item_20', 'item_21', 'item_28', 'item_29', 'item_31', 'item_32', 'item_35', 'item_36']",3
+"['item_2', 'item_4', 'item_6', 'item_9', 'item_15', 'item_19', 'item_24', 'item_25', 'item_28', 'item_30', 'item_31', 'item_34', 'item_36']",5
+"['item_2', 'item_6', 'item_9', 'item_13', 'item_19', 'item_24', 'item_28', 'item_30', 'item_31', 'item_32', 'item_34']",5
+"['item_1', 'item_5', 'item_9', 'item_11', 'item_19', 'item_20', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_34', 'item_36']",5
+"['item_0', 'item_1', 'item_2', 'item_6', 'item_9', 'item_11', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_34', 'item_36']",7
+"['item_0', 'item_1', 'item_2', 'item_3', 'item_6', 'item_9', 'item_10', 'item_12', 'item_13', 'item_21', 'item_24', 'item_27', 'item_32', 'item_34', 'item_36']",1
+"['item_1', 'item_4', 'item_6', 'item_7', 'item_10', 'item_21', 'item_25', 'item_27', 'item_34', 'item_36']",1
+"['item_1', 'item_2', 'item_6', 'item_19', 'item_21', 'item_27', 'item_34', 'item_36']",4
+"['item_2', 'item_3', 'item_6', 'item_7', 'item_9', 'item_13', 'item_17', 'item_19', 'item_21', 'item_24', 'item_28', 'item_30', 'item_32', 'item_34']",7
+"['item_0', 'item_2', 'item_5', 'item_9', 'item_10', 'item_13', 'item_14', 'item_19', 'item_26', 'item_32', 'item_33']",2
+"['item_0', 'item_1', 'item_2', 'item_3', 'item_9', 'item_12', 'item_13', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_32', 'item_33', 'item_36']",5
+"['item_1', 'item_5', 'item_8', 'item_10', 'item_14', 'item_16', 'item_21', 'item_24', 'item_26', 'item_27', 'item_30', 'item_36']",0
+"['item_2', 'item_5', 'item_6', 'item_9', 'item_11', 'item_19', 'item_24', 'item_27', 'item_28', 'item_30', 'item_34']",3
+"['item_1', 'item_6', 'item_9', 'item_16', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_30', 'item_34', 'item_36', 'item_37']",8
+"['item_1', 'item_6', 'item_9', 'item_12', 'item_19', 'item_21', 'item_24', 'item_26', 'item_27', 'item_28', 'item_30', 'item_31', 'item_34', 'item_35', 'item_36', 'item_38']",17
+"['item_1', 'item_4', 'item_6', 'item_9', 'item_15', 'item_19', 'item_21', 'item_24', 'item_27', 'item_28', 'item_29', 'item_30', 'item_34', 'item_36']",4
+"['item_1', 'item_9', 'item_13', 'item_19', 'item_21', 'item_22', 'item_24', 'item_27', 'item_28', 'item_29', 'item_30', 'item_36']",7
